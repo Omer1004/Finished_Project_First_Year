@@ -1,0 +1,3 @@
+known issues
+
+in the show profit some of the hours calculations are not rounded to 2 places after decimal point
